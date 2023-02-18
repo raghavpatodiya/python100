@@ -43,5 +43,5 @@ while not end_of_game:
         end_of_game=True
         print("You Win")
     print(hangman_art.stages[lives])#when lives=0, stages[0] will be printed
-
+# hangman project
 
